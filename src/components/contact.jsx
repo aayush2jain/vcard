@@ -5,7 +5,7 @@ export default function Contact() {
         <>
                         <h1 className="text-3xl font-bold mb-[4vh] p-1 underline-offset-16 underline decoration-[2px]  decoration-yellow-500">Contact Me</h1>
   <div className="flex flex-col items-center justify-center mt-4 bg-neutral-900 text-white px-4 py-2">
-  <p className="text-lg my-4 text-center text-gray-300">Would love to hear from you!</p>
+  <p className="text-lg my-4 text-center text-gray-300">Woulds love to hear from you!</p>
 
   {/* Contact Form */}
 <form className="w-full max-w-2xl space-y-4 border-b-1 border-neutral-700 p-4 rounded-3xl shadow-lg">
